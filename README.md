@@ -87,6 +87,8 @@ yarn start
 
 ## 🐳 Installing with Docker
 
+test
+
 To build the Umami container and start up a Postgres database, run:
 
 ```bash
